@@ -1,8 +1,8 @@
 {
-    "posts": [
-    { "id": 1, "title": "manha" },
-    { "id": 2, "title": "tarde" },
-    { "id": 3, "title": "noite" }
-  ]
+    "profile": {
+      "periodo": "manha",
+      "periodo": "tarde",
+      "periodo": "noite"
+    }
 
 }
