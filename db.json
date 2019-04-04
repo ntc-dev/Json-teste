@@ -1,5 +1,7 @@
 {
-    "periodo": "manha",
-    "periodo": "tarde",
-    "periodo": "noite" 
+    "profile": {
+      "periodo": "manha",
+      "periodo": "tarde",
+      "periodo": "noite"
+    }
 }
