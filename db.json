@@ -1,8 +1,1 @@
-{
-    "profile": {
-      "periodo": "manha",
-      "periodo": "tarde",
-      "periodo": "noite"
-    }
-
-}
+[{"companycase_id":"CTSPROD","name":"CTS-Production"},{"companycase_id":"CTSTESTING","name":"CTS-Testing"}]
